@@ -173,27 +173,3 @@ Test Top-1 drop vs dense: **0.46 percentage points**.
 Channel removal updated matching BatchNorm and `conv2` input channels; residual block output widths stayed compatible with shortcuts.
 
 ---
-
-## Deliverable checklist
-
-| Deliverable | Complete |
-|---|---|
-| Task 0 train/test Top-1, Top-5, macro-F1 | Yes |
-| Task 0 parameters, size, MACs, FLOPs | Yes |
-| Common latency, memory, CPU/GPU energy | Yes |
-| Task 1 all-layer sensitivity curves | Yes |
-| Task 1 local/global sparsity and mask checks | Yes |
-| Task 1 dense and COO storage | Yes |
-| Task 1 fine-tuning curves and discussion | Yes |
-| Task 2 three stages and criterion times | Yes |
-| Task 2 shared initialization and budget | Yes |
-| Task 2 curves and remaining-weight ratios | Yes |
-| Task 3 LASSO and least-squares reconstruction | Yes |
-| Task 3 physical model and fine-tuning | Yes |
-| Final comparison and discussion | Yes |
-
----
-
-## Generative AI acknowledgment
-
-I used generative AI tools for **language and formatting assistance** only (markdown structure, LaTeX presentation, and README wording). **All training, pruning, profiling, numerical results, and analysis in the notebook were executed and verified by me.**
