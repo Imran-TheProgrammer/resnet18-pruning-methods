@@ -1,6 +1,4 @@
-# AI624 Assignment 2 – ResNet-18 Pruning
-
-Deliverable: [`25280083_PA2.ipynb`](25280083_PA2.ipynb)
+ResNet-18 Pruning
 
 The notebook implements **Tasks 0–3** and a **Final Report** section: dense baseline profiling, unstructured magnitude pruning, iterative GraSP pruning, structured channel pruning, result tables, plots, and short discussions. 
 
