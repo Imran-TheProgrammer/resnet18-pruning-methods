@@ -1,8 +1,4 @@
-# AI624 Assignment 2 – Pruning Report
-
-**Name:** Imran Saeed  
-**Roll number:** 25280083  
-**Notebook:** `25280083_PA2.ipynb`
+# Pruning Report
 
 This report summarizes results recorded in the executed notebook. All values below match the notebook’s result tables and Final Report section.
 
